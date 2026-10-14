@@ -1,0 +1,90 @@
+{
+ "schema_version": "banana.visual-brief.v1",
+ "goal": "Client-proposal render: furnish the empty glazed skybridge corridor as an aperitivo lounge event space.",
+ "facts": [
+  "Add curved deep-blue velvet lounge sofas, round velvet poufs with brushed-gold bases, tall standing bar tables, and one neutral white aperitivo bar counter."
+ ],
+ "locks": [
+  "Preserve the corridor architecture exactly: X-shaped steel braces, glazing, skylight roof beams, ceiling, light fixtures, parquet floor, viewpoint, perspective, and sunlight with its shadow pattern.",
+  "No logos, brand names, text, or people anywhere in the image.",
+  "Bar counter is plain white with a brushed-steel top and no graphics."
+ ],
+ "freedoms": [
+  "Exact number and arrangement of furniture pieces, as long as a clear walkway remains along the corridor.",
+  "Small tabletop items such as glasses, bottles without labels, and snack bowls."
+ ],
+ "direction": {
+  "mode": "preserve",
+  "thesis": null,
+  "signature": null,
+  "avoid": null
+ },
+ "composition": [
+  "Group sofas and poufs around low round tables near the windows; place tall standing tables in a row along the corridor; place the bar counter in the mid-ground, parallel to the inner wall, leaving a walkway."
+ ],
+ "rendering": [
+  "Photorealistic interior photograph; furniture casts shadows consistent with the existing sunlight and window pattern; correct scale and floor contact."
+ ],
+ "typography": {
+  "exact_copy": [],
+  "instructions": []
+ },
+ "references": [
+  {
+   "disclosure_alias": "foto corridoio 1 (vista verso sinistra)",
+   "role": "object",
+   "purpose": "base scene to edit; preserve architecture, light, and perspective",
+   "subject_id": "skybridge-corridor",
+   "authority": {
+    "rights_or_license": "affirmed",
+    "identity_or_likeness": "not_applicable",
+    "customer_or_private_asset": "not_applicable",
+    "endorsement_or_representation": "not_applicable",
+    "provider_transmission": "affirmed",
+    "intended_use": "Indicative event-setup render for a client proposal."
+   }
+  },
+  {
+   "disclosure_alias": "reference arredo lounge (foto 3)",
+   "role": "object",
+   "purpose": "furniture style: curved velvet sofas, gold-based poufs, tall mirrored tables",
+   "subject_id": null,
+   "authority": {
+    "rights_or_license": "affirmed",
+    "identity_or_likeness": "not_applicable",
+    "customer_or_private_asset": "not_applicable",
+    "endorsement_or_representation": "not_applicable",
+    "provider_transmission": "affirmed",
+    "intended_use": "Indicative event-setup render for a client proposal."
+   }
+  },
+  {
+   "disclosure_alias": "reference bancone aperitivo (foto 4)",
+   "role": "object",
+   "purpose": "bar counter form and aperitivo setup only, without branding or people",
+   "subject_id": null,
+   "authority": {
+    "rights_or_license": "affirmed",
+    "identity_or_likeness": "not_applicable",
+    "customer_or_private_asset": "not_applicable",
+    "endorsement_or_representation": "not_applicable",
+    "provider_transmission": "affirmed",
+    "intended_use": "Indicative event-setup render for a client proposal."
+   }
+  }
+ ],
+ "output": {
+  "aspect_ratio": "4:3",
+  "image_size": "1K",
+  "mime_type": "image/jpeg",
+  "delivery_notes": [
+   "Viewable as a slide in a client presentation."
+  ]
+ },
+ "review_tests": [
+  "Architecture, braces, glazing and floor match the base photo.",
+  "Lounge sofas, poufs, standing tables and one white bar counter are present and correctly scaled.",
+  "No logos, text, or people appear.",
+  "Furniture shadows agree with the existing sunlight."
+ ]
+}
